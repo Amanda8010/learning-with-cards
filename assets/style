@@ -1,0 +1,16 @@
+body {
+    background-color: #44c2fc ;
+}
+
+footer {
+    background-color: #5053fa ;
+    color: #04015e;
+    position: fixed;
+    bottom: 0 ;
+    width:100% ;
+
+}
+
+footer p {
+    text-align: center;
+}
